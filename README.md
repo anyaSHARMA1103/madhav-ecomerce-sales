@@ -40,8 +40,4 @@ Welcome to the Madhav E-Commerce Sales Analysis project! This Power BI dashboard
 
 ---
 
-🚀 Getting Started
-```bash
-git clone https://github.com/your-username/Madhav-Ecommerce-Sales-Analysis.git
-
-Author | ANANYA SHARMA |
+🚀 Author | ANANYA SHARMA |
